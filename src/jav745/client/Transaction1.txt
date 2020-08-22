@@ -1,0 +1,5 @@
+
+CLIENT001 2020-04-12 18:11:24 Tickets Confirmed :5 Gold Tickets 5 Silver Tickets
+CLIENT001 2020-04-12 18:11:25 Tickets Confirmed :10 Gold Tickets 10 Silver Tickets
+CLIENT001 2020-04-12 18:11:37 Tickets Confirmed :20 Gold Tickets 0 Silver Tickets
+CLIENT001 2020-04-12 18:11:39 Tickets Confirmed :5 Gold Tickets 5 Silver Tickets
